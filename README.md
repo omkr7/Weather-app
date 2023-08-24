@@ -6,3 +6,7 @@ Integrated Open Weather API to fetch accurate and up-to-date weather data from m
 • Ensured seamless performance and reduced load times through efficient data caching techniques.
 • Developed a mobile-responsive layout to ensure seamless usability across a range of devices, from desktops to
 smartphones
+
+Contributing
+Contributions are welcome! If you find a bug or want to enhance the app, feel free to open an issue or submit a pull request.
+Designed and developed with ❤️ by OM KUMAR
